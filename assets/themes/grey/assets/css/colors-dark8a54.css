@@ -1,0 +1,115 @@
+/**
+ * Emily Nolan: Dark Color Scheme
+ *
+ * Colors are ordered from light to dark.
+ */
+html,
+body,
+.ms-footer,
+.ms-preloader,
+.swiper-container {
+	background-color: #212121;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.ms-footer,
+.ms-author,
+.cat-links a,
+.hamburger-label,
+.ms-right-sidebar ul a,
+.ms-single-post__nav .post-title,
+.ms-single-post__nav .post-title,
+.single-post__content .page-links {
+    color: #D5CFCF;
+}
+.ms-header::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+	background-color: #212121;
+}
+.search-submit,
+.hamburger-inner,
+.cat-links a::after,
+.hamburger-inner:after,
+.hamburger-inner:before {
+	background-color: #9B9A9C;
+}
+td, th,
+input:focus,
+textarea:focus {
+	border: 1px solid #9e9e9e;
+}
+p,
+ul,
+ol,
+dl,
+table,
+address,
+.ms-button,
+blockquote p,
+.wp-caption-text,
+.share-links a i,
+.single-post__tags a,
+.post-details a,
+.ms-single-album__nav a {
+	color: #9B9A9C;
+}
+.search-submit {
+    color: #444;
+}
+.ms-delimiter,
+.tagcloud a,
+.ms-author,
+.ms-delimiter-sm,
+.album-item__overlay::before,
+.post-item__img::before {
+	background-color: #333;
+}
+.rss-date,
+.post-date,
+.page-desc,
+.ms-comment-time,
+.post-item__date,
+.ms-single-post__nav .meta-nav {
+	color: #9B9A9C;
+}
+.search-field,
+.form-control,
+.wpcf7-form-control {
+	color: #D5CFCF;
+	background-color: #36363A;
+	border: 1px solid #36363A;
+}
+hr,
+.tagcloud a,
+.single-post__tags a,
+.ms-right-sidebar ul li {
+	border-color: #36363A;
+}
+.ms-section__block .page-numbers.current,
+.ms-section__block .page-numbers:hover {
+    background: #36363A;
+    border-color: #36363A;
+}
+.post-details,
+.post-details a,
+.single-post__tags a {
+    color: #fff;
+}
+.ms-comment-list .comment {
+    border: solid 1px #333;
+}
