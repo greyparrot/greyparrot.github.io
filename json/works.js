@@ -7,14 +7,14 @@ var data = [
   },
   {
     "cat": "mobile all",
-    "caption": "Olango Vista",
+    "caption": "Olango Vista: Instant language translator service for business meetings in multiple languages",
     "background": "assets/img/olango.png",
     "link": "assets/img/olango.png"
   },
   {
     "cat": "web all",
     "caption": "Jobdecoder",
-    "background": "https://scontent.flos8-1.fna.fbcdn.net/v/t1.0-9/14925268_533278673535490_3829624483444598950_n.jpg?_nc_cat=0&oh=022da4e991239384dbba1b86a35fb948&oe=5B623A9F",
+    "background": "assets/img/jd.jpg",
     "link": "http://jobdecoder.com/"
   },
   {
@@ -28,6 +28,30 @@ var data = [
     "caption": "Scribble, Your Smart Note",
     "background": "assets/img/scribble.jpg",
     "link": "assets/img/scribble.jpg"
+  },
+  {
+    "cat": "mobile all",
+    "caption": "Bumble 48: A customized monitoring application for a solar installation and energy management system",
+    "background": "assets/img/bumble.jpg",
+    "link": "assets/img/bumble.jpg"
+  },
+  {
+    "cat": "mobile all",
+    "caption": "Grandeur Smart mobile: This is a remote monitoring and control app for an IOT based home automation system... Allows control of smart appliances/devices installed in the house",
+    "background": "assets/img/gsmart.jpg",
+    "link": "assets/img/gsmart.jpg"
+  },
+  {
+    "cat": "mobile all",
+    "caption": "Schoolcloud: A multi-tenant school management software for K12 education systems",
+    "background": "assets/img/schoolcloud.jpg",
+    "link": "assets/img/schoolcloud.jpg"
+  },
+  {
+    "cat": "mobile all",
+    "caption": "Solarbase: Mobile monitoring/control application for IOT powered Solar energy installations for customers",
+    "background": "assets/img/solarbase.jpg",
+    "link": "assets/img/solarbase.jpg"
   },
 
 ]
